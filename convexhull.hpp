@@ -8,7 +8,7 @@ using namespace std;
  
 struct Point
 {
-    int x, y;
+    double x, y;
 };
  
 // A globle point needed for  sorting points with reference
